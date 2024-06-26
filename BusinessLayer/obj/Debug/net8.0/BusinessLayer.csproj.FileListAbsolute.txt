@@ -1,0 +1,17 @@
+C:\Users\HUAWEI\source\repos\BusinessLayer\bin\Debug\net8.0\BusinessLayer.deps.json
+C:\Users\HUAWEI\source\repos\BusinessLayer\bin\Debug\net8.0\BusinessLayer.dll
+C:\Users\HUAWEI\source\repos\BusinessLayer\bin\Debug\net8.0\BusinessLayer.pdb
+C:\Users\HUAWEI\source\repos\BusinessLayer\bin\Debug\net8.0\DataLayer.dll
+C:\Users\HUAWEI\source\repos\BusinessLayer\bin\Debug\net8.0\Model.dll
+C:\Users\HUAWEI\source\repos\BusinessLayer\bin\Debug\net8.0\DataLayer.pdb
+C:\Users\HUAWEI\source\repos\BusinessLayer\bin\Debug\net8.0\Model.pdb
+C:\Users\HUAWEI\source\repos\BusinessLayer\obj\Debug\net8.0\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\HUAWEI\source\repos\BusinessLayer\obj\Debug\net8.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HUAWEI\source\repos\BusinessLayer\obj\Debug\net8.0\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\HUAWEI\source\repos\BusinessLayer\obj\Debug\net8.0\BusinessLayer.AssemblyInfo.cs
+C:\Users\HUAWEI\source\repos\BusinessLayer\obj\Debug\net8.0\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\HUAWEI\source\repos\BusinessLayer\obj\Debug\net8.0\Business.EA331CBA.Up2Date
+C:\Users\HUAWEI\source\repos\BusinessLayer\obj\Debug\net8.0\BusinessLayer.dll
+C:\Users\HUAWEI\source\repos\BusinessLayer\obj\Debug\net8.0\refint\BusinessLayer.dll
+C:\Users\HUAWEI\source\repos\BusinessLayer\obj\Debug\net8.0\BusinessLayer.pdb
+C:\Users\HUAWEI\source\repos\BusinessLayer\obj\Debug\net8.0\ref\BusinessLayer.dll
